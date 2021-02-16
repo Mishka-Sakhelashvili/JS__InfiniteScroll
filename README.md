@@ -4,7 +4,7 @@
 <img height="400px" src="https://github.com/Mishka-Sakhelashvili/JS__InfiniteScroll/blob/master/Gif.gif"/>
 
 <hr />
-<h1> 👉 <a href="https://mishka-sakhelashvili.github.io/JS_test/">  View Demo  </a></h1>
+<h1> 👉 <a href="https://mishka-sakhelashvili.github.io/JS__InfiniteScroll/">  View Demo  </a></h1>
 
 <hr />
 <h2><i>Desc: </i></h2>
